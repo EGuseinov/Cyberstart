@@ -19,6 +19,7 @@
 ## 📋 Requirements
 
 - Python 3.x
+- JupyterNotebook
 
 📞 Connect with Me
 
